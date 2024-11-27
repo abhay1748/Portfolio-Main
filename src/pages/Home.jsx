@@ -72,7 +72,10 @@ function Home() {
                     GET IN TOUCH
                   </a>
                   <button className="connectBTN px-6 py-3 rounded-[20px] border-[1px] border-[var(--white-secondary)] z-10 text-[var(--white-primary)] font-semibold tracking-[0.5px] text-[12px] hover:transform">
-                    <a href="" target="_blanck">
+                    <a
+                      href="https://drive.google.com/file/d/1BuqXsSnnZLLR9FRGik1WI-hpjqL0zsiJ/view?usp=drive_link"
+                      target="_blanck"
+                    >
                       SEE MY RESUME
                     </a>
                   </button>
